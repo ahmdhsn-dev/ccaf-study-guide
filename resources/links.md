@@ -18,6 +18,7 @@ Curated links for CCAF prep. Check dates — exam content evolves.
 | **CyberSkill mock** | https://ccaf.cyberskill.world/ | Closest to the real exam; free; aim for 900+ |
 | **Certification Guide site** | https://claudecertificationguide.com/ | Expanded domain examples + short mock |
 | ccaf.ai practice | https://ccaf.ai/practice/start | Additional practice |
+| Szymon Paluch practice exam | https://szymonpaluch.com/claude-certified-architect-practice-exam | 60 original questions, timed exam mode, explanation for every answer; no signup |
 
 ## Community write-ups (helpful for study path)
 
